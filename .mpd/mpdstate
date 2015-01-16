@@ -1,0 +1,46 @@
+sw_volume: 16
+audio_device_state:1:pulse
+state: pause
+current: 31
+time: 210
+random: 0
+repeat: 0
+single: 0
+consume: 1
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: nan
+playlist_begin
+0:Music/Chopin/Chopin (Rubinstein)/Disc 2 (Nocturnes)/Chopin - Nocturnes - Op. 27, No.2.flac
+1:Music/!!!misc/04-big_boi_feat._killer_mike-kryptonite_(im_on_it).mp3
+2:Music/Casey Jones/0535 Grown Assman.m4a
+3:Music/Casey Jones/0536 You Were Never a Fan of the Dry .m4a
+4:Music/Casey Jones/0537 Strike Hard.m4a
+5:Music/Casey Jones/0538 Dead Kid_ Try a Nice Memorial Ta.m4a
+6:Music/Casey Jones/0539 C. G. I. 2K3.m4a
+7:Music/Casey Jones/0540 Meaner Than a Junkyard Dog.m4a
+8:Music/Casey Jones/0541 If You_re Smoking in Here You Be.m4a
+9:Music/Casey Jones/0542 Big Train_ Raging Ice.m4a
+10:Music/Casey Jones/0543 Pigs Is Pigs.m4a
+11:Music/Near's Theme Death Notes OST.mp3
+12:Music/In Flames/08-in_flames-pacing_deaths_trail.mp3
+13:Music/In Flames/09-in_flames-crawl_through_knives.mp3
+14:Music/In Flames/10-in_flames-versus_terminus.mp3
+15:Music/In Flames/11-in_flames-our_infinite_struggle.mp3
+16:Music/In Flames/12-in_flames-vanishing_light.mp3
+17:Music/In Flames/13-in_flames-your_bedtime_story_is_scaring_everyone.mp3
+18:Music/LAST ALLIANCE - Always in My Heart/01 片膝の汚れ.mp3
+19:Music/Light This City/01 facing the thousand.mp3
+20:Music/Light This City/02 cradle for a king.mp3
+21:Music/Light This City/03 the unwelcome savior.mp3
+22:Music/Light This City/04 exile.mp3
+23:Music/Light This City/05 maddening swarm.mp3
+24:Music/Light This City/06 city of the snares.mp3
+25:Music/Light This City/07 the eagle.mp3
+26:Music/Light This City/08 fear of heights.mp3
+27:Music/Light This City/09 tracks of decay.mp3
+28:Music/Light This City/10 like every song_s our last.mp3
+29:Music/!!!misc/10 Loituma - Leva's polka.mp3
+30:Music/Chrono Tigger/Chrono_Trigger_Chrono_Moonstone_OC_ReMix.mp3
+31:Music/Metallica/08 Nothing Else Matters.m4a
+playlist_end
