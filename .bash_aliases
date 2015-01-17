@@ -16,12 +16,16 @@ alias linuxcommandhelp='vim ~/Dropbox/Chronicles/computerdiary/linuxcommandhelp'
 echo 'linuxcommandhelp	->	open linuxcommandhelp in vim'
 
 # Alias to my y4 ms folder
-alias ms='cd ~/Dropbox/medicine/y4/ms/'
-echo 'ms			->	go to y4/ms'
+#alias msnotes='cd ~/Dropbox/medicine/y4/ms/tex'
+#echo 'msnotes			->	go to y4/ms/tex'
+
+# Alias to my y4 ms folder
+alias msnotes='ranger ~/Dropbox/medicine/y4/ms/tex/tex'
+echo 'msnotes			->	go to y4/ms/tex in ranger'
 
 # Alias to my tex folder for y4ms
-alias mstex='cd ~/Dropbox/medicine/y4/ms/tex'
-echo 'mstex			->	go to y4/ms/tex'
+alias mstex='vim ~/Dropbox/medicine/y4/ms/tex/MS.tex'
+echo 'mstex			->	open y4/ms/tex/ms.tex in vim'
 
 # Run the dropbox daemon
 alias dropbox='~/.dropbox-dist/dropboxd'
