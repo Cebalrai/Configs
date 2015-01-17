@@ -15,6 +15,7 @@ echo 'techdiary		->	open techdiary in vim'
 alias linuxcommandhelp='vim ~/Dropbox/Chronicles/computerdiary/linuxcommandhelp'
 echo 'linuxcommandhelp	->	open linuxcommandhelp in vim'
 
+# Old
 # Alias to my y4 ms folder
 #alias msnotes='cd ~/Dropbox/medicine/y4/ms/tex'
 #echo 'msnotes			->	go to y4/ms/tex'
@@ -27,8 +28,10 @@ echo 'msnotes			->	go to y4/ms/tex in ranger'
 alias mstex='vim ~/Dropbox/medicine/y4/ms/tex/MS.tex'
 echo 'mstex			->	open y4/ms/tex/ms.tex in vim'
 
+# Alias to my MS to do list file
+alias mstodolist='vim ~/Dropbox/medicine/y4/ms/tex/MStodolist.mkd'
+echo 'mstodolist		->	open y4/ms/tex/MStodolist.mkd in vim'
+
 # Run the dropbox daemon
 alias dropbox='~/.dropbox-dist/dropboxd'
 echo 'dropbox			->	run dropbox daemon'
-
-
